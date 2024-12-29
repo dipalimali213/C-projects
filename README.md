@@ -43,8 +43,3 @@ Welcome to the **C Programming Repository**! This repository is a one-stop resou
 ### Prerequisites
 - Install a C compiler (e.g., GCC, Clang).
 - Use any IDE or text editor (e.g., VS Code, Code::Blocks, Dev-C++).
-
-### Clone the Repository
-```bash
-git clone https://github.com/your-username/c-programming-repo.git
-cd c-programming-repo
